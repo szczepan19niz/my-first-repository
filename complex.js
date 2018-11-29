@@ -1,3 +1,5 @@
+// es6
+
 "use strict";
 class Complex {
     constructor(re, im) {

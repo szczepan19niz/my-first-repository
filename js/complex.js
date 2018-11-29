@@ -1,3 +1,5 @@
+//es5
+
 var Complex = /** @class */ (function () {
     function Complex(re, im) {
         this.re = re;
